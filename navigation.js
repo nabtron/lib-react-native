@@ -1,4 +1,7 @@
 // https://www.reactnativeschool.com/master-react-navigation-v5/installing-dependencies
+
+// view this code to hide the tab bar on all pages except specified 
+// undefined means first screen?
   const screens_with_tabbar = [undefined, 'Chats','Activity','Settings']
 
   return (
